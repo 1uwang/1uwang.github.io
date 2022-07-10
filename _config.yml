@@ -40,16 +40,16 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : Env_Eco_Micro.
   email     : wangalwaysbe@hotmail.com
-  facebook  : https://www.facebook.com/1uwan9
+  facebook  : 1uwan9
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
-  douban    : https://www.douban.com/people/211860517
-  linkedin  : https://www.linkedin.com/in/lu-wang-203428202
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  douban    : 211860517
+  linkedin  : lu-wang-203428202
+  github    : 1uwang # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
