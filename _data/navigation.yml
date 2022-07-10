@@ -14,7 +14,7 @@ header:
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT   
       # @end locale config
-    url: /about.md
+    url: /about.html
     
   - titles:
       # @start locale config
@@ -40,7 +40,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /cv.md
+    url: /cv.html
     
   - titles:
       # @start locale config
@@ -118,4 +118,4 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /contact.md
+    url: /contact.html
