@@ -92,7 +92,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /archive.html
+    url: /
     
   - titles:
       # @start locale config
