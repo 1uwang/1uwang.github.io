@@ -1,16 +1,16 @@
 ---
 layout: article
-title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
+title: Would you like to know more about me? Feel free to contact:)
 mode: immersive
 header:
-  theme: dark
+  theme: light
 article_header:
   type: overlay
-  theme: dark
+  theme: light
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/assets/images/cover2.jpg
+    src: /docs/assets/images/image1.jpg
 ---
 
 
