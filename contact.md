@@ -5,11 +5,10 @@ mode: immersive
 header:
   theme: light
 article_header:
-  type: cover
+  type: overlay
   theme: light
   background_color: '#91b6d4'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(55, 152, 202 , .2), rgba(139, 34, 139, .8))'
     src: /docs/images/image1.jpg
 ---
 
