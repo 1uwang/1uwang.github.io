@@ -4,7 +4,7 @@ title: Page - Article Header Image
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/cover2.jpg
+    src: /docs/images/image1.jpg
 ---
 
 
