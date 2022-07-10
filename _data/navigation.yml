@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /archive.html
+    url: /page.html
     
   - titles:
       # @start locale config
@@ -49,7 +49,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /archive.html
+    url: /article.html
  
   - titles:
       # @start locale config
