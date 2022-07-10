@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Page - Sidebar
-sidebar:
-  nav: layouts
+title: Page - Aside
+aside:
+  toc: true
 ---
 
 ##cv
