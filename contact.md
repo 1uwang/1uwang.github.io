@@ -1,16 +1,19 @@
 ---
 layout: article
-title: Would you like to know more about me? Feel free to contact:)
+title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
+permalink: /page/article-header-overlay-background-image-immersive-translucent-header.html
+key: page-article-header-overlay-background-image-ITH
+cover: /docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
 mode: immersive
 header:
-  theme: light
+  theme: dark
 article_header:
   type: overlay
-  theme: light
-  background_color: '#91b6d4'
+  theme: dark
+  background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/images/image1.jpg
+    gradient: 'linear-gradient(135deg, rgba(34, 139,87 , .4), rgba(139, 34, 139, .4))'
+    src: /docs/assets/images/cover3.jpg
 ---
 
 <div class="hero hero--dark" style='background-image: url("path-to-image");'>
