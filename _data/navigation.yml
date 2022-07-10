@@ -1,6 +1,23 @@
 header:
   - titles:
       # @start locale config
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS 
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT   
+      # @end locale config
+    url: /about.md
+    
+  - titles:
+      # @start locale config
       en      : &EN       CV
       en-GB   : *EN
       en-US   : *EN
@@ -23,7 +40,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /contact.html
+    url: /cv.md
     
   - titles:
       # @start locale config
@@ -49,7 +66,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /about.html
+    url: /archive.html
  
   - titles:
       # @start locale config
@@ -101,4 +118,4 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /about.html
+    url: /contact.md
