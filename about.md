@@ -36,14 +36,6 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 ## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
 - Additional styles (alert, tag, image, icon, button, grid, etc)
 - Extensions (audios, videos, slides, demos)
 - Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
