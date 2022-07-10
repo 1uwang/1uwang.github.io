@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
-permalink: /page/article-header-overlay-background-image-immersive-translucent-header.html
 key: page-article-header-overlay-background-image-ITH
 cover: /docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
 mode: immersive
@@ -16,12 +15,6 @@ article_header:
     src: /docs/assets/images/cover3.jpg
 ---
 
-<div class="hero hero--dark" style='background-image: url("path-to-image");'>
-  <div class="hero__content">
-    <h3>Hero</h3>
-    <p>...</p>
-  </div>
-</div>
 
 ## Mobile Phone
 +45 55217599
