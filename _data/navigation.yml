@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /layouts/page.html
+    url: /contact.html
     
   - titles:
       # @start locale config
