@@ -5,7 +5,7 @@ mode: immersive
 header:
   theme: light
 article_header:
-  type: overlay
+  type: cover
   theme: light
   background_color: '#91b6d4'
   background_image:
