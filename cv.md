@@ -1,8 +1,8 @@
 ---
-layout: article
-title: Page - Aside
-aside:
-  toc: true
+layout: Curriculum vitae
+title: Page - Sidebar
+sidebar:
+  nav: layouts
 ---
 
 ## Education
