@@ -28,6 +28,10 @@ aside:
 <!--more-->
 
 ---
-Click here to download :arrow_right:
+Click here to download 
+<i class="fas fa-download"></i>
+<a href="https://www.stackoverflow.com/">
+  <button>Click me</button>
+</a>
 
 
