@@ -23,9 +23,11 @@ aside:
 
 
 
+
+
 <!--more-->
 
 ---
+Click here to download :arrow_right:
 
-Let's protect the environment! :sunrise_over_mountains:
 
