@@ -7,7 +7,7 @@ header:
 article_header:
   type: cover
   image:
-    src: https://github.com/1uwang/1uwang.github.io/raw/master/docs/images/image2.jpg
+    src: https://github.com/1uwang/1uwang.github.io/raw/master/docs/images/image1.jpg
 ---
 
 
@@ -17,5 +17,5 @@ article_header:
 ## Address
 70599 Stuttgart, Germany
 ## E-mail
-pch482@alumni.ku.dk
+pch482@alumni.ku.dk    
 wangalwaysbe@hotmail.com
