@@ -1,16 +1,13 @@
 ---
 layout: article
-title: Page - Article Header Image
-article_header:
-  type: cover
-  image:
-    src: /docs/images/image1.jpg
+title: Would you like to know more about me? Feel free to contact me:)
 ---
 
 
 ## Mobile Phone
 +45 55217599
 ## Address
-
+70599 Stuttgart, Germany
 ## E-mail
 pch482@alumni.ku.dk
+wangalwaysbe@hotmail.com
