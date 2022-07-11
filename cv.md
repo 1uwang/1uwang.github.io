@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Curriculum vitae
-sidebar:
-  nav: layouts
+aside:
+  toc: true
 ---
 
 ## Education
