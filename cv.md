@@ -1,6 +1,6 @@
 ---
-layout: Curriculum vitae
-title: Page - Sidebar
+layout: article
+title: Curriculum vitae
 sidebar:
   nav: layouts
 ---
