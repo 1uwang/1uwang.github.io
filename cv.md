@@ -29,7 +29,7 @@ aside:
 
 ---
 Click here to download 
-<i class="fas fa-download"></i>
+<i href="https://www.stackoverflow.com/" class="fas fa-download"></i>
 <a href="https://www.stackoverflow.com/">
   <button>Click me</button>
 </a>
