@@ -17,7 +17,7 @@ aside:
 
 ### Software & Tools
 
-## Langurage
+### Langurage
 
 ## Scholarship and grant
 
