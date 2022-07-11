@@ -29,5 +29,5 @@ aside:
 
 ---
 
-<a href="[https://www.stackoverflow.com/](https://www.overleaf.com/read/vjztvgbmzqyp)"><i class="fas fa-download"></i> Click here to download</a>
+<a href="https://www.overleaf.com/read/vjztvgbmzqyp"><i class="fas fa-download"></i> Click here to download</a>
 
