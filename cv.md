@@ -28,13 +28,6 @@ aside:
 <!--more-->
 
 ---
-Click here to download 
 
-<i class="fas fa-download"></i>
-
-<a href="https://www.stackoverflow.com/">
-  <button>Click me</button>
-</a>
-
-<a class="fas fa-download" href="https://www.stackoverflow.com/"><i class="fas fa-download"></i> Download</a>
+<a href="https://www.stackoverflow.com/"><i class="fas fa-download"></i> Click here to download</a>
 
