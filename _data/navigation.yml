@@ -53,7 +53,7 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Research Experience
+      en      : &EN       Research
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -77,31 +77,6 @@ header:
       # @end locale config
     url: /archive.html
  
-  - titles:
-      # @start locale config
-      en      : &EN       Contact
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       
-      ko-KR   : *KO
-      fr      : &FR      
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR      
-      # @end locale config
-    url: /contact.html
 
 
   - titles:
@@ -129,3 +104,30 @@ header:
       tr      : &TR      
       # @end locale config
     url: /New page.html
+
+
+  - titles:
+      # @start locale config
+      en      : &EN       Contact
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       
+      ko-KR   : *KO
+      fr      : &FR      
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      tr      : &TR      
+      # @end locale config
+    url: /contact.html
