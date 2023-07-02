@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Feel free to ask me anything!
+title: Feel free to contact me and ask me anything!
 mode: immersive
 header:
   theme: dark
