@@ -103,7 +103,7 @@ header:
       fr-LU   : *FR
       tr      : &TR      
       # @end locale config
-    url: /New page.html
+    url: /News.html
 
 
   - titles:
