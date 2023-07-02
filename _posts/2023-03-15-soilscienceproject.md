@@ -9,6 +9,7 @@ article_header:
   theme: dark
   background_image:
      src: https://github.com/1uwang/1uwang.github.io/raw/master/docs/images/image4.jpg
+tags: MSc
 ---
 
 THIS IS MAIN TEXT.
